@@ -2,7 +2,7 @@
 title: "How to Fix 'Objects are not valid as a React child' Error"
 pubDatetime: 2026-06-23T01:43:39.000Z
 modDatetime: 2026-06-23T01:43:39.000Z
-description: "The "Objects are not valid as a React child" error occurs when you attempt to render a JavaScript object directly in JSX..."
+description: "Fix 'Objects are not valid as a React child' by converting objects to strings before rendering in JSX."
 tags:
   - tutorial
   - error-fix

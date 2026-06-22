@@ -73,14 +73,15 @@ except Exception as e:
 OUTPUT_DIR="src/content/posts"
 mkdir -p "$OUTPUT_DIR"
 
-# Format description from first sentence
+# Format description from first sentence, ensure no inner double quotes
 DESC=$(echo "$CONTENT" | head -5 | python3 -c "
 import sys
 lines = sys.stdin.read()
 for line in lines.split('\n'):
     line = line.strip().lstrip('#').strip()
     if line and len(line) > 30:
-        print(line[:120])
+        desc = line[:120].replace('\"', \"'\")
+        print(desc)
         break
 ")
 

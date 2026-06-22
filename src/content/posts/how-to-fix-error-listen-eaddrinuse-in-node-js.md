@@ -2,7 +2,7 @@
 title: "How to Fix 'Error: listen EADDRINUSE' in Node.js"
 pubDatetime: 2026-06-23T01:41:33.000Z
 modDatetime: 2026-06-23T01:41:33.000Z
-description: "The `Error: listen EADDRINUSE` occurs when your Node.js application attempts to bind to a port that is already occupied ..."
+description: "Fix 'Error: listen EADDRINUSE' in Node.js by killing the process using the port or changing the port number."
 tags:
   - tutorial
   - error-fix

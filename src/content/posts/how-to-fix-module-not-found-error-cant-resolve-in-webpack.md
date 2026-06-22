@@ -2,7 +2,7 @@
 title: "How to Fix 'Module not found: Error: Can't resolve' in Webpack"
 pubDatetime: 2026-06-23T01:44:23.000Z
 modDatetime: 2026-06-23T01:44:23.000Z
-description: "The "Module not found: Error: Can't resolve" in Webpack occurs when the bundler cannot locate a module specified in an `..."
+description: "Fix 'Module not found: Error: Can't resolve' in Webpack by correcting import paths and installing missing packages."
 tags:
   - tutorial
   - error-fix

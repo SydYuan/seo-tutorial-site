@@ -2,7 +2,7 @@
 title: "How to Fix 'Failed to load module script' Error in Vite"
 pubDatetime: 2026-06-23T01:42:49.000Z
 modDatetime: 2026-06-23T01:42:49.000Z
-description: "The "Failed to load module script" error in Vite typically occurs when the browser can't locate or properly serve your J..."
+description: "Fix 'Failed to load module script' in Vite by configuring correct MIME types and production build settings."
 tags:
   - tutorial
   - error-fix

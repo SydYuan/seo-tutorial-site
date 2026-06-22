@@ -2,7 +2,7 @@
 title: "How to Fix 'Cannot find name' Error in TypeScript"
 pubDatetime: 2026-06-23T01:42:24.000Z
 modDatetime: 2026-06-23T01:42:24.000Z
-description: "The "Cannot find name" error in TypeScript occurs when the compiler encounters an identifier that hasn't been declared o..."
+description: "Fix 'Cannot find name' in TypeScript by installing missing type definitions or declaring modules."
 tags:
   - tutorial
   - error-fix

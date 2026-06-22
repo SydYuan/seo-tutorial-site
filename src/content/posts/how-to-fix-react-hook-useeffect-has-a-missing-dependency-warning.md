@@ -2,7 +2,7 @@
 title: "How to Fix 'React Hook useEffect has a missing dependency' Warning"
 pubDatetime: 2026-06-23T01:42:03.000Z
 modDatetime: 2026-06-23T01:42:03.000Z
-description: "The "React Hook useEffect has a missing dependency" warning occurs when you use a variable or function inside your `useE..."
+description: "Fix React useEffect missing dependency warning by adding the missing dependency array entries."
 tags:
   - tutorial
   - error-fix

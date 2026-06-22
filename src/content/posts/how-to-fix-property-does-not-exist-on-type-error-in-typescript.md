@@ -2,7 +2,7 @@
 title: "How to Fix 'Property does not exist on type' Error in TypeScript"
 pubDatetime: 2026-06-23T01:45:18.000Z
 modDatetime: 2026-06-23T01:45:18.000Z
-description: "The "Property does not exist on type" error occurs when you try to access a property that TypeScript doesn't recognize o..."
+description: "Fix 'Property does not exist on type' in TypeScript by extending interfaces or using type assertions."
 tags:
   - tutorial
   - error-fix

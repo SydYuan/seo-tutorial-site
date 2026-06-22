@@ -2,7 +2,7 @@
 title: "How to Fix 'Error: GetAddrinfo ENOTFOUND' in Node.js"
 pubDatetime: 2026-06-23T01:43:08.000Z
 modDatetime: 2026-06-23T01:43:08.000Z
-description: "The `Error: getaddrinfo ENOTFOUND` occurs when Node.js cannot resolve a hostname to an IP address. This typically happen..."
+description: "Fix 'Error: GetAddrinfo ENOTFOUND' in Node.js by checking DNS, network connectivity, and hostname validity."
 tags:
   - tutorial
   - error-fix

@@ -2,7 +2,7 @@
 title: "How to Fix 'Hydration failed because the initial UI does not match' in Next.js"
 pubDatetime: 2026-06-23T01:47:20.000Z
 modDatetime: 2026-06-23T01:47:20.000Z
-description: "This error occurs when the server renders HTML that differs from what the client expects during hydration. React expects..."
+description: "Fix Next.js hydration errors by ensuring server and client render identical HTML. Covers date mismatches and browser APIs."
 tags:
   - tutorial
   - error-fix
